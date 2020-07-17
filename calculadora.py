@@ -2,19 +2,19 @@
 
 print("\n******************* Python Calculator *******************")
 
-
+#Funcao
 def add(x, y):
     return x + y
 
-
+#Funcao
 def subtract(x, y):
     return x - y
 
-
+#Funcao
 def multiply(x, y):
     return x * y
 
-
+#Funcao
 def divide(x, y):
     return x / y
 
