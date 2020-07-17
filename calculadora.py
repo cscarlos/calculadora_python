@@ -1,4 +1,4 @@
-# Calculadora em Python
+## Calculadora em Python
 
 print("\n******************* Python Calculator *******************")
 
@@ -27,8 +27,8 @@ print("4 - Divisão")
 
 escolha = input("\nDigite sua opção (1/2/3/4): ")
 
-num1 = int(input("\nDigite o primeiro número: "))
-num2 = int(input("\nDigite o segundo número: "))
+num1 = int(input("\n Digite o primeiro número: "))
+num2 = int(input("\n Digite o segundo número: "))
 
 if escolha == '1':
     print("\n")
@@ -51,6 +51,6 @@ elif escolha == '4':
     print("\n")
 
 else:
-    print("\nOpção Inválida!")
+    print("\nOpção ERRO!")
 
 
